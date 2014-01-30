@@ -263,4 +263,5 @@ Realizar a consulta de dois pacotes:
     
     }
     
-    
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/madeinnordeste/kohana-rastreador-ect/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
